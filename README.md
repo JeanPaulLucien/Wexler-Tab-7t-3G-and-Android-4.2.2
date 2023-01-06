@@ -4,6 +4,7 @@ Wexler Tab 7t + 3G is based on NVidia Tegra 3 tablet. I have created this reposi
 ## How to contribute
 1. Tell, how to fix issues, send pull requests;
 2. Make pull requests with useful apks, files and information
+3. Send information to developers. Please check to not repeat.
 
 ## Softwore for device
 You may visit my profile to find some apps: https://github.com/stars/JeanPaulLucien/lists/android-4-2-2
