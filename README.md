@@ -9,7 +9,7 @@ Wexler Tab 7t + 3G is based on NVidia Tegra 3 tablet. I have created this reposi
 ## For developers
 Thank you to all developers who still develop apps and make fixes for Android 4.2.2. I respet you. 
 
-## About my English
+### About my English
 Sometimes it's broken. Feel free to fix me.
 
 ## Softwore for device
